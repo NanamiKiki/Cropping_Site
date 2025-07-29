@@ -131,7 +131,7 @@
   
 <a name="img1"></a>
 <p align="center">
-  <img src="Screenshot_(1).png" alt="Screenshot_(1)" width="700" />
+  <img src="Screenshot_1.png" alt="Screenshot_1" width="700" />
 </p>
 <p align="center">
   
@@ -140,7 +140,7 @@
 
 <a name="img2"></a>
 <p align="center">
-  <img src="Screenshot_(2).png" alt="Screenshot_(2)" width="700" />
+  <img src="Screenshot_2.png" alt="Screenshot_2" width="700" />
 </p>
 <p align="center">
   
@@ -149,7 +149,7 @@
 
 <a name="img3"></a>
 <p align="center">
-  <img src="Screenshot_(3).png" alt="Screenshot_(3)" width="700" />
+  <img src="Screenshot_3.png" alt="Screenshot_3" width="700" />
 </p>
 <p align="center">
  
@@ -158,7 +158,7 @@
 
 <a name="img4"></a>
 <p align="center">
-  <img src="Screenshot_(4).png" alt="Screenshot_(4)" width="700" />
+  <img src="Screenshot_4.png" alt="Screenshot_4" width="700" />
 </p>
 <p align="center">
   
