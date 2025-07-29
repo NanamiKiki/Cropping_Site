@@ -138,6 +138,18 @@
 </p>
 
 
+
+
+
+<a name="img4"></a>
+<p align="center">
+  <img src="Screenshot_4.png" alt="Screenshot_4" width="700" />
+</p>
+<p align="center">
+  
+</p>
+
+
 <a name="img2"></a>
 <p align="center">
   <img src="Screenshot_2.png" alt="Screenshot_2.png" width="700" />
@@ -154,16 +166,6 @@
 <p align="center">
  
 </p>
-
-
-<a name="img4"></a>
-<p align="center">
-  <img src="Screenshot_4.png" alt="Screenshot_4" width="700" />
-</p>
-<p align="center">
-  
-</p>
-
 
 
   <h1>RO-Site de Cropping Imagine cu Login/Register și Roluri Admin/User</h1>
