@@ -125,12 +125,12 @@
   <li>Simple system intended for demos or small projects.</li>
   <li>Cropping is done entirely client-side (in the browser); images are not saved on the server.</li>
 </ul>
-##  Demo
+<h2>Screeshots<h2>
 
 
 <a name="img1"></a>
 <p align="center">
-  <img src="Screenshot1.png" alt="Screenshot_(1)" width="700" />
+  <img src="Screenshot_(1).png" alt="Screenshot_(1)" width="700" />
 </p>
 <p align="center">
   
@@ -139,7 +139,7 @@
 
 <a name="img2"></a>
 <p align="center">
-  <img src="Screenshot2.png" alt="Screenshot_(2)" width="700" />
+  <img src="Screenshot_(2).png" alt="Screenshot_(2)" width="700" />
 </p>
 <p align="center">
   
@@ -148,7 +148,7 @@
 
 <a name="img3"></a>
 <p align="center">
-  <img src="Screenshot3.png" alt="Screenshot_(3)" width="700" />
+  <img src="Screenshot_(3).png" alt="Screenshot_(3)" width="700" />
 </p>
 <p align="center">
  
@@ -157,7 +157,7 @@
 
 <a name="img4"></a>
 <p align="center">
-  <img src="Screenshot4.png" alt="Screenshot_(4)" width="700" />
+  <img src="Screenshot_(4).png" alt="Screenshot_(4)" width="700" />
 </p>
 <p align="center">
   
