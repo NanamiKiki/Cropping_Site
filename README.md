@@ -126,7 +126,5 @@
     <li>Cropping se face doar în client (browser), imaginea nu se salvează pe server</li>
   </ul>
 
-  <p>Dacă dorești, pot să te ajut și cu scriptul de creare tabel în MySQL sau alte detalii.</p>
-
 </body>
 </html>
