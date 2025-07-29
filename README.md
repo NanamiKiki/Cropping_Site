@@ -3,8 +3,8 @@
   <h2>Descriere</h2>
   <p>Acest proiect este un site web simplu de cropping imagini, inspirat de 
     <a href="https://www.youtube.com/watch?v=LiomRvK7AM8" target="_blank" rel="noopener noreferrer">
-      tutorialul video folosind HTML, CSS, PHP și MySQL Database.
-    </a>.  
+      tutorialul video 
+    </a>.folosind HTML, CSS, PHP și MySQL Database.  
     Are funcționalități complete de:</p>
   <ul>
     <li>Înregistrare și autentificare utilizatori (roluri <code>admin</code> și <code>user</code>)</li>
