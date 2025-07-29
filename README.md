@@ -111,10 +111,10 @@
 
   <h2>Tehnologii folosite</h2>
   <ul>
-    <li>PHP 7+</li>
+    <li>PHP </li>
     <li>MySQL / MariaDB (phpMyAdmin)</li>
-    <li>HTML5, CSS3, JavaScript</li>
-    <li>Cropper.js (CDN)</li>
+    <li>HTML, CSS, JavaScript</li>
+    <li>Cropper.js </li>
     <li>XAMPP (Apache + MySQL) pentru server local</li>
   </ul>
 
