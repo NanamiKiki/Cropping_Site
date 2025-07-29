@@ -127,42 +127,16 @@
 </ul>
 
 
-<h2>Screenshots</h2>
-  
-<a name="img1"></a>
 <p align="center">
-  <img src="Screenshot_1.png" alt="Screenshot_1" width="700" />
+  <img src="Screenshot_1.png" alt="Test image 1" width="700" />
 </p>
 <p align="center">
-  
-</p>
-
-
-<a name="img2"></a>
-<p align="center">
-  <img src="Screenshot_2.png" alt="Screenshot_2" width="700" />
+  <img src="Screenshot_1.png" alt="Test image 2" width="700" />
 </p>
 <p align="center">
-  
+  <img src="Screenshot_1.png" alt="Test image 3" width="700" />
 </p>
 
-
-<a name="img3"></a>
-<p align="center">
-  <img src="Screenshot_3.png" alt="Screenshot_3" width="700" />
-</p>
-<p align="center">
- 
-</p>
-
-
-<a name="img4"></a>
-<p align="center">
-  <img src="Screenshot_4.png" alt="Screenshot_4" width="700" />
-</p>
-<p align="center">
-  
-</p>
 
   <h1>RO-Site de Cropping Imagine cu Login/Register și Roluri Admin/User</h1>
 
