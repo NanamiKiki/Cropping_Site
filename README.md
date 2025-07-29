@@ -5,7 +5,7 @@
     <a href="https://www.youtube.com/watch?v=LiomRvK7AM8" target="_blank" rel="noopener noreferrer">
       tutorialul video 
     </a>folosind HTML, CSS, PHP și MySQL Database.
-    Are funcționalități complete de:
+    <h2>Are funcționalități complete de:</h2>
   <ul>
     <li>Înregistrare și autentificare utilizatori (roluri <code>admin</code> și <code>user</code>)</li>
     <li>Stocarea utilizatorilor într-o bază de date MySQL (phpMyAdmin, XAMPP)</li>
