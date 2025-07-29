@@ -125,9 +125,10 @@
   <li>Simple system intended for demos or small projects.</li>
   <li>Cropping is done entirely client-side (in the browser); images are not saved on the server.</li>
 </ul>
+
+
 <h2>Screeshots<h2>
-
-
+  
 <a name="img1"></a>
 <p align="center">
   <img src="Screenshot_(1).png" alt="Screenshot_(1)" width="700" />
@@ -163,7 +164,6 @@
   
 </p>
 
-</div>
   <h1>RO-Site de Cropping Imagine cu Login/Register și Roluri Admin/User</h1>
 
   <h2>Descriere</h2>
