@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=UoqMunThenKhung&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'UoqMunThenKhung', serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to right,#E7DDFF, #3F02D4);
+    color: black;
+}
+
+.container {
+    margin: 0 15px;
+}
+
+.form-box {
+    width: 100%;
+    max-width: 450px;
+    padding: 30px;
+    background: #E7DDFF;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: none;
+}
+
+.form-box.active {
+    display: block;
+}
+
+h2 {
+    font-size:  34px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 12px;
+    background: #f1f0f2;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background: #c098e8;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: #f1f0f2;
+    font-weight: 500;
+    margin-bottom: 20px;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+
+button:hover {
+    background: #e44481;
+}
+
+p {
+    font-size: 14.5px;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+p a{
+    color: #3F02D4;
+    text-decoration: none;
+
+}
+
+p a:hover {
+    text-decoration: underline;
+}
+
+.error-message{
+    padding: 12px;
+    background: #f23030;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logout-btn {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.logout-btn:hover {
+    background-color: #c0392b;
+    transform: translateY(-2px);
+}
+
