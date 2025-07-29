@@ -78,10 +78,10 @@
 
   <h2>Observații</h2>
   <ul>
-    <li>Parolele sunt criptate cu <code>password_hash</code> PHP</li>
-    <li>Protecție minimă prin sesiuni, fără implementări avansate de securitate (ex: CSRF)</li>
-    <li>Sistem simplu pentru demo sau proiecte mici</li>
-    <li>Cropping se face doar în client (browser), imaginea nu se salvează pe server</li>
+    <li>Parolele sunt criptate cu <code>password_hash</code> PHP.</li>
+    <li>Protecție minimă prin sesiuni, fără implementări avansate de securitate.</li>
+    <li>Sistem simplu pentru demo sau proiecte mici.</li>
+    <li>Cropping se face doar în client (browser), imaginea nu se salvează pe server.</li>
   </ul>
 
 </body>
