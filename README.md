@@ -51,11 +51,52 @@
     <li>Opțiune de ștergere a contului propriu</li>
   </ul>
 
-  <h2>Baza de date</h2>
-  <p>Se presupune o bază de date MySQL numită <code>users_form_db</code>, cu un tabel <code>users</code> având coloanele:</p>
-  <pre>
-| id (INT, AUTO_INCREMENT, PRIMARY KEY) | name (VARCHAR) | email (VARCHAR, UNIQUE) | password (VARCHAR) | role (ENUM('admin','user')) |
-  </pre>
+<h2>Baza de date</h2>
+<p>Se presupune o bază de date MySQL numită <code>users_form_db</code>, cu un tabel <code>users</code> având următoarele coloane:</p>
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 700px;">
+  <thead style="background-color: #3F02D4; color: white;">
+    <tr>
+      <th>Coloană</th>
+      <th>Tip</th>
+      <th>Descriere</th>
+      <th>Constrângeri</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>id</code></td>
+      <td>INT</td>
+      <td>Identificator unic</td>
+      <td>PRIMARY KEY, AUTO_INCREMENT</td>
+    </tr>
+    <tr>
+      <td><code>name</code></td>
+      <td>VARCHAR(255)</td>
+      <td>Numele utilizatorului</td>
+      <td>NOT NULL</td>
+    </tr>
+    <tr>
+      <td><code>email</code></td>
+      <td>VARCHAR(255)</td>
+      <td>Adresa de email</td>
+      <td>NOT NULL, UNIQUE</td>
+    </tr>
+    <tr>
+      <td><code>password</code></td>
+      <td>VARCHAR(255)</td>
+      <td>Parola criptată</td>
+      <td>NOT NULL</td>
+    </tr>
+    <tr>
+      <td><code>role</code></td>
+      <td>ENUM('admin', 'user')</td>
+      <td>Rolul utilizatorului</td>
+      <td>NOT NULL</td>
+    </tr>
+  </tbody>
+</table>
+
 
   <h2>Instalare & rulare locală</h2>
   <ol>
