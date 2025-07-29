@@ -140,7 +140,7 @@
 
 <a name="img2"></a>
 <p align="center">
-  <img src="Screenshot_2.png" alt="Screenshot_2" width="700" />
+  <img src="Screenshot_2.png" alt="Screenshot_2.png" width="700" />
 </p>
 <p align="center">
   
@@ -149,7 +149,7 @@
 
 <a name="img3"></a>
 <p align="center">
-  <img src="Screenshot_3.png" alt="Screenshot_3" width="700" />
+  <img src="Screenshot_3.png" alt="Screenshot_3.png" width="700" />
 </p>
 <p align="center">
  
