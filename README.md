@@ -4,7 +4,7 @@
   <p>Acest proiect este un site web simplu de cropping imagini, inspirat de 
     <a href="https://www.youtube.com/watch?v=LiomRvK7AM8" target="_blank" rel="noopener noreferrer">
       tutorialul video 
-    </a>folosind HTML, CSS, PHP și MySQL Database.
+    </a>.
     <h2>Are funcționalități complete de:</h2>
   <ul>
     <li>Înregistrare și autentificare utilizatori (roluri <code>admin</code> și <code>user</code>)</li>
