@@ -1,4 +1,4 @@
-<h1>Image Cropping Website with Login/Register and Admin/User Roles</h1>
+<h1>EN-Image Cropping Website with Login/Register and Admin/User Roles</h1>
 
 <h2>Description</h2>
 <p>This project is a simple image cropping website inspired by the 
@@ -127,7 +127,7 @@
 </ul>
 
   
-  <h1>Site de Cropping Imagine cu Login/Register și Roluri Admin/User</h1>
+  <h1>RO-Site de Cropping Imagine cu Login/Register și Roluri Admin/User</h1>
 
   <h2>Descriere</h2>
   <p>Acest proiect este un site web simplu de cropping imagini, inspirat de 
