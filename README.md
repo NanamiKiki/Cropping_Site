@@ -127,7 +127,7 @@
 </ul>
 
 
-<h2>Screeshots<h2>
+<h2>Screenshots</h2>
   
 <a name="img1"></a>
 <p align="center">
